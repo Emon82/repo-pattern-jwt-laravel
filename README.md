@@ -7,7 +7,7 @@ To Install & Run This Project, Follow These Steps:
 1. Clone the repository:
 
     ```sh
-    git clone [https://github.com/SoftVenceDev/mirko86z_backend.git]https://github.com/Emon82/repo-pattern-jwt-laravel.git
+    git clone [https://github.com/SoftVenceDev/mirko86z_backend.git](https://github.com/Emon82/repo-pattern-jwt-laravel.git)
     ```
 
 2. Navigate to the project directory:
